@@ -1,3 +1,6 @@
+https://namanjain007492.github.io/1000407_Naman_AIY1_GENAI_FA2/
+
+
 # 🌾 AgroNova – Smart Farming Assistant using Generative AI
 
 AgroNova is an AI-powered smart farming assistant developed to support farmers by providing safe, affordable, and sustainable agricultural advice.  
@@ -111,6 +114,7 @@ The aim of AgroNova is to:
 
 ---
 
+
 ## 📂 Project Folder Structure
 
 ```text
@@ -119,3 +123,26 @@ AgroNova/
 ├── farmingassistance.py   # Main application code
 ├── requirements.txt       # Required libraries
 └── README.md              # Project documentation
+
+## 🏫 Project Credits
+
+- **Project Title:** AgroNova – Smart Farming Assistant  
+- **Student Name:** Naman Jain  
+- **Class & Section:** Class : 11 , Section : IB  
+- **School Name:** Jain Vidyalaya  
+- **Subject:** Artificial Intelligence  
+- **Assessment:** FA-2  
+- **Academic Year:** 2025–2026  
+
+- **Guided By:** Mrs.Arul Jyoti
+  *(Subject Teacher)*
+
+- **Developed Using:**  
+  - Python  
+  - Streamlit  
+  - Google Gemini Generative AI  
+
+- **Project Type:** Individual Student Project  
+- **Purpose:** Educational and academic use only
+
+

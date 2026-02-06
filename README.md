@@ -127,7 +127,8 @@ AgroNova/
 ## 🏫 Project Credits
 
 - **Project Title:** AgroNova – Smart Farming Assistant  
-- **Student Name:** Naman Jain  
+- **Student Name:** Naman Jain
+- **Roll No:** 1000407
 - **Class & Section:** Class : 11 , Section : IB  
 - **School Name:** Jain Vidyalaya  
 - **Subject:** Artificial Intelligence  
